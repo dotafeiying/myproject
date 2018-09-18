@@ -1,0 +1,190 @@
+INFO 2018-09-18 11:27:49,108 "POST /app/upload/ HTTP/1.1" 200 373372
+INFO 2018-09-18 11:27:51,955 "GET /app/analyze/?file_path=D:%5Cmyproject%5Cmedia%5Cupload%5C2018%5C09%5C18%5C%E8%B6%85%E5%BF%99%E5%B0%8F%E5%8C%BA.xlsx&file_path_id=159 HTTP/1.1" 200 66
+INFO 2018-09-18 11:28:02,407 "GET /app/job_manage/ HTTP/1.1" 200 58638
+INFO 2018-09-18 11:28:06,398 "GET /app/job_manage/ HTTP/1.1" 200 0
+INFO 2018-09-18 11:28:15,978 "GET /app/job_manage/ HTTP/1.1" 200 58638
+INFO 2018-09-18 11:28:21,651 "GET /app/job_manage/ HTTP/1.1" 200 0
+INFO 2018-09-18 11:29:33,851 "GET /app/get_result/?taskid=1284350a-51cf-48ba-9a10-b3ed24548234 HTTP/1.1" 200 6053735
+INFO 2018-09-18 11:29:52,600 "GET /app/job_manage/ HTTP/1.1" 200 58599
+INFO 2018-09-18 11:29:54,197 "GET /app/job_manage/ HTTP/1.1" 200 0
+INFO 2018-09-18 11:34:43,214 "POST /app/upload/ HTTP/1.1" 200 373657
+INFO 2018-09-18 11:40:26,288 "POST /app/upload/ HTTP/1.1" 200 373645
+INFO 2018-09-18 11:41:27,674 "POST /app/upload/ HTTP/1.1" 200 373380
+INFO 2018-09-18 11:41:44,677 "GET /app/analyze/?file_path=D:%5Cmyproject%5Cmedia%5Cupload%5C2018%5C09%5C18%5C%E8%B6%85%E5%BF%99%E5%B0%8F%E5%8C%BA_ZdZVd82.xlsx&file_path_id=160 HTTP/1.1" 200 66
+INFO 2018-09-18 11:41:58,806 "GET /app/job_manage/ HTTP/1.1" 200 59323
+INFO 2018-09-18 11:42:19,741 "GET /app/job_manage/ HTTP/1.1" 200 0
+INFO 2018-09-18 11:42:58,876 "GET /app/job_manage/ HTTP/1.1" 200 59324
+INFO 2018-09-18 11:43:17,795 "GET /app/job_manage/ HTTP/1.1" 200 0
+INFO 2018-09-18 11:43:17,795 "GET /app/get_result/?taskid=a9951301-1c84-4be9-aa54-242008f57eae HTTP/1.1" 200 6053743
+INFO 2018-09-18 11:44:34,753 "GET /app/job_manage/ HTTP/1.1" 200 59291
+INFO 2018-09-18 11:44:42,019 "GET /app/job_manage/ HTTP/1.1" 200 0
+INFO 2018-09-18 11:44:42,234 "GET /app/get_choice/ HTTP/1.1" 200 238
+INFO 2018-09-18 11:44:42,234 "GET /app/get_enb_tree/?tabSelected=tree HTTP/1.1" 200 250
+INFO 2018-09-18 11:45:27,395 "GET /app/analyze_one/?enbid=586837&cellid=52&taskid=7f20i25cesd84lcoxkw&eps=100&min_samples=200&K=1 HTTP/1.1" 200 206153
+INFO 2018-09-18 11:45:56,371 "POST /app/compute_cluster/ HTTP/1.1" 200 225
+INFO 2018-09-18 11:47:24,240 "GET /app/get_enb_tree/?city=%E6%AD%A6%E6%B1%89&tabSelected=tree HTTP/1.1" 200 153087
+INFO 2018-09-18 11:47:31,537 "GET /app/get_enb_tree/?city=%E8%8D%86%E9%97%A8&tabSelected=tree HTTP/1.1" 200 5830
+INFO 2018-09-18 11:47:34,265 "GET /app/get_enb_tree/?city=%E9%BB%84%E5%86%88&tabSelected=tree HTTP/1.1" 200 9800
+INFO 2018-09-18 11:47:40,922 "GET /app/get_choice/ HTTP/1.1" 200 238
+INFO 2018-09-18 11:47:40,922 "GET /app/get_enb_tree/?tabSelected=tree HTTP/1.1" 200 250
+INFO 2018-09-18 11:47:44,017 "GET /app/get_enb_tree/?city=%E9%9A%8F%E5%B7%9E&tabSelected=tree HTTP/1.1" 200 1815
+INFO 2018-09-18 11:47:48,663 "GET /app/get_enb_tree/?city=%E5%A4%A9%E9%97%A8&tabSelected=tree HTTP/1.1" 200 577
+INFO 2018-09-18 11:47:51,127 "GET /app/get_enb_tree/?city=%E6%9E%97%E5%8C%BA&tabSelected=tree HTTP/1.1" 200 165
+INFO 2018-09-18 11:47:57,183 "GET /app/get_enb_tree/?city=%E9%84%82%E5%B7%9E&tabSelected=tree HTTP/1.1" 200 3788
+INFO 2018-09-18 11:48:36,022 "GET /app/get_enb_tree/?city=%E8%A5%84%E6%A8%8A&tabSelected=tree HTTP/1.1" 200 13957
+INFO 2018-09-18 11:48:43,672 "GET /app/get_enb_tree/?city=%E5%AE%9C%E6%98%8C&tabSelected=tree HTTP/1.1" 200 9437
+INFO 2018-09-18 11:50:58,866 "GET /app/job_manage/ HTTP/1.1" 200 59291
+INFO 2018-09-18 11:51:46,689 "GET /app/get_table/ HTTP/1.1" 200 0
+INFO 2018-09-18 11:52:08,490 "GET /app/job_manage/ HTTP/1.1" 200 0
+INFO 2018-09-18 11:52:11,085 "GET /app/analyze/?file_path=D:%5Cmyproject%5Cmedia%5Cupload%5C2018%5C09%5C18%5C%E8%B6%85%E5%BF%99%E5%B0%8F%E5%8C%BA_ZdZVd82.xlsx&file_path_id=160 HTTP/1.1" 200 66
+INFO 2018-09-18 11:52:12,057 "GET /app/job_manage/ HTTP/1.1" 200 60014
+INFO 2018-09-18 11:52:34,452 "GET /app/job_manage/ HTTP/1.1" 200 0
+INFO 2018-09-18 11:52:36,781 "GET /app/analyze/?file_path=D:%5Cmyproject%5Cmedia%5Cupload%5C2018%5C09%5C18%5C%E8%B6%85%E5%BF%99%E5%B0%8F%E5%8C%BA_ZdZVd82.xlsx&file_path_id=160 HTTP/1.1" 200 66
+INFO 2018-09-18 11:52:38,555 "GET /app/job_manage/ HTTP/1.1" 200 60739
+INFO 2018-09-18 11:52:43,035 "GET /app/job_manage/ HTTP/1.1" 200 0
+INFO 2018-09-18 11:52:46,102 "GET /app/analyze/?file_path=D:%5Cmyproject%5Cmedia%5Cupload%5C2018%5C09%5C18%5C%E8%B6%85%E5%BF%99%E5%B0%8F%E5%8C%BA_ZdZVd82.xlsx&file_path_id=160 HTTP/1.1" 200 66
+INFO 2018-09-18 11:52:54,838 "GET /app/analyze/?file_path=D:%5Cmyproject%5Cmedia%5Cupload%5C2018%5C09%5C18%5C%E8%B6%85%E5%BF%99%E5%B0%8F%E5%8C%BA_ZdZVd82.xlsx&file_path_id=160 HTTP/1.1" 200 66
+INFO 2018-09-18 11:52:55,932 "GET /app/job_manage/ HTTP/1.1" 200 62187
+INFO 2018-09-18 11:53:44,780 "GET /app/job_manage/a91b7b61-dd6d-4e0d-a893-04f9be8ad888/kill/ HTTP/1.1" 200 77
+ERROR 2018-09-18 11:53:50,355 Internal Server Error: /app/analyze/
+Traceback (most recent call last):
+  File "C:\envs\py34web\lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = get_response(request)
+  File "C:\envs\py34web\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\envs\py34web\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\envs\py34web\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\decorators.py", line 16, in new_func
+    response = func(request, *args, **kwargs)
+  File "D:\myproject\app\views.py", line 489, in analyze
+    for message in request.websocket:
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\websocket.py", line 55, in __iter__
+    message = self.wait()
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\backends\default\websocket.py", line 87, in wait
+    new_data = self.protocol.read()
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\backends\default\protocols.py", line 52, in read
+    _, data = self.read_data()
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\backends\default\protocols.py", line 116, in read_data
+    raise EOFError("EOF when reading a line, websocket has been closed")
+EOFError: EOF when reading a line, websocket has been closed
+ERROR 2018-09-18 11:53:50,523 "GET /app/analyze/ HTTP/1.1" 500 97265
+ERROR 2018-09-18 11:53:50,523 "GET /app/analyze/ HTTP/1.1" 500 59
+INFO 2018-09-18 11:53:51,507 "GET /app/job_manage/ HTTP/1.1" 200 0
+INFO 2018-09-18 11:54:08,098 "GET /app/job_manage/ HTTP/1.1" 200 62115
+ERROR 2018-09-18 11:54:23,525 Internal Server Error: /app/analyze/
+Traceback (most recent call last):
+  File "C:\envs\py34web\lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = get_response(request)
+  File "C:\envs\py34web\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\envs\py34web\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\envs\py34web\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\decorators.py", line 16, in new_func
+    response = func(request, *args, **kwargs)
+  File "D:\myproject\app\views.py", line 489, in analyze
+    for message in request.websocket:
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\websocket.py", line 55, in __iter__
+    message = self.wait()
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\backends\default\websocket.py", line 87, in wait
+    new_data = self.protocol.read()
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\backends\default\protocols.py", line 52, in read
+    _, data = self.read_data()
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\backends\default\protocols.py", line 116, in read_data
+    raise EOFError("EOF when reading a line, websocket has been closed")
+EOFError: EOF when reading a line, websocket has been closed
+ERROR 2018-09-18 11:54:23,619 "GET /app/analyze/ HTTP/1.1" 500 97298
+ERROR 2018-09-18 11:54:23,619 "GET /app/analyze/ HTTP/1.1" 500 59
+ERROR 2018-09-18 11:54:27,157 Internal Server Error: /app/analyze/
+Traceback (most recent call last):
+  File "C:\envs\py34web\lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = get_response(request)
+  File "C:\envs\py34web\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\envs\py34web\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\envs\py34web\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\decorators.py", line 16, in new_func
+    response = func(request, *args, **kwargs)
+  File "D:\myproject\app\views.py", line 489, in analyze
+    for message in request.websocket:
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\websocket.py", line 55, in __iter__
+    message = self.wait()
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\backends\default\websocket.py", line 87, in wait
+    new_data = self.protocol.read()
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\backends\default\protocols.py", line 52, in read
+    _, data = self.read_data()
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\backends\default\protocols.py", line 116, in read_data
+    raise EOFError("EOF when reading a line, websocket has been closed")
+EOFError: EOF when reading a line, websocket has been closed
+ERROR 2018-09-18 11:54:27,246 "GET /app/analyze/ HTTP/1.1" 500 97265
+ERROR 2018-09-18 11:54:27,250 "GET /app/analyze/ HTTP/1.1" 500 59
+INFO 2018-09-18 11:55:57,128 "GET /app/job_manage/ HTTP/1.1" 200 0
+INFO 2018-09-18 11:56:00,097 "GET /app/get_table/ HTTP/1.1" 200 0
+INFO 2018-09-18 11:56:07,159 "POST /app/upload/ HTTP/1.1" 200 373645
+INFO 2018-09-18 12:26:16,248 "POST /app/upload/ HTTP/1.1" 200 373380
+INFO 2018-09-18 12:26:18,830 "GET /app/analyze/?file_path=D:%5Cmyproject%5Cmedia%5Cupload%5C2018%5C09%5C18%5C%E8%B6%85%E5%BF%99%E5%B0%8F%E5%8C%BA_nPH8TiA.xlsx&file_path_id=161 HTTP/1.1" 200 66
+INFO 2018-09-18 12:26:25,925 "GET /app/job_manage/ HTTP/1.1" 200 62776
+INFO 2018-09-18 12:26:27,105 "GET /app/job_manage/ HTTP/1.1" 200 0
+INFO 2018-09-18 12:26:28,207 "GET /app/analyze/?file_path=D:%5Cmyproject%5Cmedia%5Cupload%5C2018%5C09%5C18%5C%E8%B6%85%E5%BF%99%E5%B0%8F%E5%8C%BA_nPH8TiA.xlsx&file_path_id=161 HTTP/1.1" 200 66
+INFO 2018-09-18 12:26:29,258 "GET /app/job_manage/ HTTP/1.1" 200 63501
+INFO 2018-09-18 12:26:32,651 "GET /app/job_manage/ HTTP/1.1" 200 0
+INFO 2018-09-18 12:26:34,028 "GET /app/analyze/?file_path=D:%5Cmyproject%5Cmedia%5Cupload%5C2018%5C09%5C18%5C%E8%B6%85%E5%BF%99%E5%B0%8F%E5%8C%BA_nPH8TiA.xlsx&file_path_id=161 HTTP/1.1" 200 66
+INFO 2018-09-18 12:26:35,053 "GET /app/job_manage/ HTTP/1.1" 200 64060
+INFO 2018-09-18 12:26:42,374 "GET /app/job_manage/ HTTP/1.1" 200 0
+INFO 2018-09-18 12:26:45,117 "GET /app/analyze/?file_path=D:%5Cmyproject%5Cmedia%5Cupload%5C2018%5C09%5C18%5C%E8%B6%85%E5%BF%99%E5%B0%8F%E5%8C%BA_nPH8TiA.xlsx&file_path_id=161 HTTP/1.1" 200 66
+INFO 2018-09-18 12:26:46,508 "GET /app/job_manage/ HTTP/1.1" 200 64620
+ERROR 2018-09-18 12:27:58,543 Internal Server Error: /app/analyze/
+Traceback (most recent call last):
+  File "C:\envs\py34web\lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = get_response(request)
+  File "C:\envs\py34web\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\envs\py34web\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\envs\py34web\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\decorators.py", line 16, in new_func
+    response = func(request, *args, **kwargs)
+  File "D:\myproject\app\views.py", line 489, in analyze
+    for message in request.websocket:
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\websocket.py", line 55, in __iter__
+    message = self.wait()
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\backends\default\websocket.py", line 87, in wait
+    new_data = self.protocol.read()
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\backends\default\protocols.py", line 52, in read
+    _, data = self.read_data()
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\backends\default\protocols.py", line 116, in read_data
+    raise EOFError("EOF when reading a line, websocket has been closed")
+EOFError: EOF when reading a line, websocket has been closed
+ERROR 2018-09-18 12:27:58,637 "GET /app/analyze/ HTTP/1.1" 500 97265
+ERROR 2018-09-18 12:27:58,637 "GET /app/analyze/ HTTP/1.1" 500 59
+ERROR 2018-09-18 12:28:05,491 Internal Server Error: /app/analyze/
+Traceback (most recent call last):
+  File "C:\envs\py34web\lib\site-packages\django\core\handlers\exception.py", line 42, in inner
+    response = get_response(request)
+  File "C:\envs\py34web\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\envs\py34web\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\envs\py34web\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\decorators.py", line 16, in new_func
+    response = func(request, *args, **kwargs)
+  File "D:\myproject\app\views.py", line 489, in analyze
+    for message in request.websocket:
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\websocket.py", line 55, in __iter__
+    message = self.wait()
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\backends\default\websocket.py", line 87, in wait
+    new_data = self.protocol.read()
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\backends\default\protocols.py", line 52, in read
+    _, data = self.read_data()
+  File "C:\envs\py34web\lib\site-packages\dwebsocket\backends\default\protocols.py", line 116, in read_data
+    raise EOFError("EOF when reading a line, websocket has been closed")
+EOFError: EOF when reading a line, websocket has been closed
+ERROR 2018-09-18 12:28:05,581 "GET /app/analyze/ HTTP/1.1" 500 97265
+ERROR 2018-09-18 12:28:05,581 "GET /app/analyze/ HTTP/1.1" 500 59

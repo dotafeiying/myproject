@@ -1,0 +1,9 @@
+﻿venv\Scripts\activate
+python manage.py celery -A myproject worker -l info
+python manage.py celery -A myproject beat -l info
+pip freeze >requirements.txt
+
+启用事件发送:
+python manage.py celery -A myproject worker -l info -E
+启动快照相机：
+python manage.py celerycam -F 10 -l info
